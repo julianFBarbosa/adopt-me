@@ -47,6 +47,6 @@ Feel free to contribute to this project sending a [PR](https://github.com/julian
 
 ## Production
 
-This project isn't actually in production :sad:
+This project isn't actually in production :sweat_smile:
 
 with :heart:, [Julian](https://github.com/julianFBarbosa/)
